@@ -15,3 +15,4 @@ Instituição, turma e aluno.
 ⇨ Como essas entidades estão relacionadas?
 
 A Instituicao tem turmas, e as turmas possuem alunos, salas e afins.
+![image](https://user-images.githubusercontent.com/114073150/215079933-2fc7c6b6-f933-4d6a-994e-14eb121a7316.png)
